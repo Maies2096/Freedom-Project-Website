@@ -12,17 +12,17 @@ by Maie Sayed
 ## Links
 
 Product:
-<a href="https://maies2096.github.io/Freedom-Project-Website/#">Click on this link to see my website!</a>
+<p> <a href="https://maies2096.github.io/Freedom-Project-Website/#">Click on this link to see my website!</a> </p>
 
 
 Presentation:
-<a href="https://docs.google.com/presentation/d/1SEAT5PRa4njnhXD5X2mpF1dqd7jn0Lb3pFVozrTVDGI/edit?usp=sharing">Click on this link to see my presentation!</a>
+<p> <a href="https://docs.google.com/presentation/d/1SEAT5PRa4njnhXD5X2mpF1dqd7jn0Lb3pFVozrTVDGI/edit?usp=sharing">Click on this link to see my presentation!</a> </p>
 
 Blog:
-<a href="https://docs.google.com/document/d/1j4MNXMM6KregFATdLtQMt4PMZ1N2TY-i5ytrZEZbdn4/edit">Click on this link to see my blog!</a>
+<p> <a href="https://docs.google.com/document/d/1j4MNXMM6KregFATdLtQMt4PMZ1N2TY-i5ytrZEZbdn4/edit">Click on this link to see my blog!</a> </p>
 
 Synthesized Information & Notes:
-<a href="https://docs.google.com/document/d/1C0AR4ooORoe8EOnH8r2WjoklgHnanxDimVehEGGy3n4/edit?usp=sharing">Click on this link to see my notes!</a>
+<p> <a href="https://docs.google.com/document/d/1C0AR4ooORoe8EOnH8r2WjoklgHnanxDimVehEGGy3n4/edit?usp=sharing">Click on this link to see my notes!</a> </p>
 
-<a href="https://docs.google.com/document/d/1WrCYqOkNOLYlSq6Y_fDm7jpxsoo0WrtYHM62-q5oJeE/edit">Click on this link to see my other notes!</a>
+<p> <a href="https://docs.google.com/document/d/1WrCYqOkNOLYlSq6Y_fDm7jpxsoo0WrtYHM62-q5oJeE/edit">Click on this link to see my other notes!</a> </p>
 
