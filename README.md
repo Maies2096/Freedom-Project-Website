@@ -11,15 +11,15 @@ by Maie Sayed
 
 ## Links
 
-Product
+Product:
 <a href="https://maies2096.github.io/Freedom-Project-Website/#">Click on this link to see my website!</a>
 
 
-Presentation
+Presentation:
 <a href="https://docs.google.com/presentation/d/1SEAT5PRa4njnhXD5X2mpF1dqd7jn0Lb3pFVozrTVDGI/edit?usp=sharing">Click on this link to see my presentation!</a>
 
 
-Blog
+Blog:
 <a href="https://docs.google.com/document/d/1j4MNXMM6KregFATdLtQMt4PMZ1N2TY-i5ytrZEZbdn4/edit">Click on this link to see my blog!</a>
 
 
