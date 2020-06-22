@@ -18,8 +18,11 @@ Product:
 Presentation:
 <a href="https://docs.google.com/presentation/d/1SEAT5PRa4njnhXD5X2mpF1dqd7jn0Lb3pFVozrTVDGI/edit?usp=sharing">Click on this link to see my presentation!</a>
 
-
 Blog:
 <a href="https://docs.google.com/document/d/1j4MNXMM6KregFATdLtQMt4PMZ1N2TY-i5ytrZEZbdn4/edit">Click on this link to see my blog!</a>
 
+Synthesized Information & Notes:
+<a href="https://docs.google.com/document/d/1C0AR4ooORoe8EOnH8r2WjoklgHnanxDimVehEGGy3n4/edit?usp=sharing">Click on this link to see my notes!</a>
+
+<a href="https://docs.google.com/document/d/1WrCYqOkNOLYlSq6Y_fDm7jpxsoo0WrtYHM62-q5oJeE/edit">Click on this link to see my other notes!</a>
 
